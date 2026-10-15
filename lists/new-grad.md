@@ -1,6 +1,6 @@
 # 300 new grad and entry level roles hiring now
 
-**300 roles at 169 companies.** Checked 14 Oct 2026. US roles whose title says new grad, graduate, entry level, early career or junior. No senior titles.
+**300 roles at 169 companies.** Checked 15 Oct 2026. US roles whose title says new grad, graduate, entry level, early career or junior. No senior titles.
 
 > **Want help applying?** [Litos](https://trylitos.com/?utm_source=github&utm_campaign=newgrad&utm_medium=banner) tailors your resume to each job using only your real experience and fills in the application. You check everything and decide when it is sent.
 

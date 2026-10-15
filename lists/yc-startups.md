@@ -1,6 +1,6 @@
 # 538 open roles at 58 YC startups
 
-**538 roles at 58 companies.** Checked 14 Oct 2026. Y Combinator companies with live postings on their own job boards, up to 15 roles each.
+**538 roles at 58 companies.** Checked 15 Oct 2026. Y Combinator companies with live postings on their own job boards, up to 15 roles each.
 
 > **Want help applying?** [Litos](https://trylitos.com/?utm_source=github&utm_campaign=yc&utm_medium=banner) tailors your resume to each job using only your real experience and fills in the application. You check everything and decide when it is sent.
 

@@ -1,6 +1,6 @@
 # 300 internships open right now (US)
 
-**300 roles at 191 companies.** Checked 14 Oct 2026. Roles the employer labels as internships, every field, not only software.
+**300 roles at 191 companies.** Checked 15 Oct 2026. Roles the employer labels as internships, every field, not only software.
 
 > **Want help applying?** [Litos](https://trylitos.com/?utm_source=github&utm_campaign=intern&utm_medium=banner) tailors your resume to each job using only your real experience and fills in the application. You check everything and decide when it is sent.
 

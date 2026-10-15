@@ -1,6 +1,6 @@
 # US employers that sponsor visas: new grad roles and internships open now
 
-**453 roles at 208 companies.** Checked 14 Oct 2026. For international students and new grads. Every employer has a sponsorship record or a posting that says it sponsors.
+**453 roles at 208 companies.** Checked 15 Oct 2026. For international students and new grads. Every employer has a sponsorship record or a posting that says it sponsors.
 
 > **Want help applying?** [Litos](https://trylitos.com/?utm_source=github&utm_campaign=visa&utm_medium=banner) tailors your resume to each job using only your real experience and fills in the application. You check everything and decide when it is sent.
 

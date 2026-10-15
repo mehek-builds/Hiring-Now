@@ -1,6 +1,6 @@
 # 577 fresher friendly roles hiring in India right now
 
-**654 roles at 382 companies.** Checked 14 Oct 2026. Bengaluru, Hyderabad, Pune, Mumbai, Gurugram, Delhi NCR and Chennai. No senior titles.
+**654 roles at 382 companies.** Checked 15 Oct 2026. Bengaluru, Hyderabad, Pune, Mumbai, Gurugram, Delhi NCR and Chennai. No senior titles.
 
 > **Want help applying?** [Litos](https://trylitos.com/?utm_source=github&utm_campaign=india&utm_medium=banner) tailors your resume to each job using only your real experience and fills in the application. You check everything and decide when it is sent.
 
