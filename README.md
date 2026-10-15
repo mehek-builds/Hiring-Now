@@ -27,6 +27,6 @@ Star this repo to keep it handy, and watch it to get the Monday update.
 
 ## Fine print
 
-- These lists are pulled from company job boards automatically, not hand-checked. If a role has closed or something looks wrong, [open an issue](../../issues) and it comes off at the next rebuild.
+- Every list is pulled from companies' own job boards and rebuilt every Monday, so closed roles drop off on their own.
 - Visa signal: the posting says it sponsors, or the employer has US H-1B (USCIS) or LCA (DOL) records. A record means the employer has sponsored before, not that a given role will. Always confirm with the employer.
 - Maintained by the team behind [Litos](https://trylitos.com/?utm_source=github&utm_campaign=readme&utm_medium=readme), a job application agent. The lists are free and need no signup.

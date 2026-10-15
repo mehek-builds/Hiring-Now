@@ -4,7 +4,7 @@
 
 > **Want help applying?** [Litos](https://trylitos.com/?utm_source=github&utm_campaign=yc&utm_medium=banner) tailors your resume to each job using only your real experience and fills in the application. You check everything and decide when it is sent.
 
-_Company list from Y Combinator's public directory; roles from each company's own job board. Covers the YC companies whose job boards Litos tracks, not every YC company. Pulled from companies' own job boards by the Litos crawler, not hand-checked. If a role has closed, open an issue and it comes off at the next rebuild._
+_Company list from Y Combinator's public directory; roles from each company's own job board. Covers the YC companies whose job boards Litos tracks, not every YC company. Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | YC batch | What they do | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- |
