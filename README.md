@@ -21,7 +21,6 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 ## How to use these lists
 
 - Click a role to open it on Litos. The page shows the job and the company's own apply link.
-- **Apply with Litos** tailors your resume to that job using only your real experience, then fills in the application. You check everything and decide when it is sent.
 - Want a spreadsheet instead? Every list is also in [csv/](csv/).
 
 Star this repo to keep it handy, and watch it to get the Monday update.
