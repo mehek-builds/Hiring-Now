@@ -1,6 +1,6 @@
 # Hiring Now: free job lists, rebuilt every week
 
-**5,035 open roles across 11 lists.** Checked 15 Oct 2026.
+**5,069 open roles across 12 lists.** Checked 15 Oct 2026.
 
 Every role comes straight from the employer's own job board, picked up by [Litos](https://trylitos.com/?utm_source=github&utm_campaign=readme&utm_medium=readme). Nothing is copied from LinkedIn or Indeed. The lists are rebuilt every Monday, so closed roles drop off and new ones come in.
 
@@ -17,6 +17,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [304 clinical research and lab roles open right now (US)](lists/clinical-research.md) | 304 | 158 |
 | [532 open roles at 57 YC startups](lists/yc-startups.md) | 532 | 57 |
 | [577 fresher friendly roles hiring in India right now](lists/india.md) | 654 | 382 |
+| [34 chemical and process engineering internships open right now (US)](lists/chemical-engineering-internships.md) | 34 | 23 |
 
 ## How to use these lists
 
