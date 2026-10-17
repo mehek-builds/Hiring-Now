@@ -1,6 +1,6 @@
 # Hiring Now: free job lists, rebuilt every week
 
-**5,566 open roles across 19 lists.** Checked 15 Oct 2026.
+**5,596 open roles across 20 lists.** Checked 15 Oct 2026.
 
 Every role comes straight from the employer's own job board, picked up by [Litos](https://trylitos.com/?utm_source=github&utm_campaign=readme&utm_medium=readme). Nothing is copied from LinkedIn or Indeed. The lists are rebuilt every Monday, so closed roles drop off and new ones come in.
 
@@ -25,6 +25,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [55 cybersecurity and information security roles at US visa sponsors](lists/cybersecurity.md) | 55 | 38 |
 | [149 electrical engineering and robotics roles at US visa sponsors](lists/electrical-engineering-robotics.md) | 149 | 68 |
 | [81 industrial and manufacturing engineering roles at US visa sponsors](lists/industrial-engineering.md) | 81 | 37 |
+| [30 energy and power roles at US visa sponsors](lists/energy-power.md) | 30 | 17 |
 
 ## How to use these lists
 
