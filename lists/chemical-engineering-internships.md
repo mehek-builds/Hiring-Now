@@ -1,18 +1,27 @@
-# 34 chemical and process engineering internships open right now (US)
+# 43 chemical and process engineering internships open right now (US)
 
-**34 roles at 23 companies.** Checked 15 Oct 2026. US chemical engineering and process engineering internships and co-ops, from employers' own job boards.
+**43 roles at 30 companies.** Checked 20 Oct 2026. US chemical engineering and process engineering internships and co-ops, from employers' own job boards.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **RTX** | [Material/Process Engineering Intern (Summer 2027)(Onsite)](https://trylitos.com/job/b5a4b4be-46b8-46b2-af3c-8e2cf7be99b6?utm_source=github&utm_campaign=chemical) | US-WA-SPOKANE-11135 ~ 11135 W Westbow Ln ~ WE |  | Oct 19 |  |
+| **Northrop Grumman** | [2027 Materials/Chemical Engineer Intern - Baltimore MD](https://trylitos.com/job/30bce712-ffb5-484a-a34d-5ba34a23d47d?utm_source=github&utm_campaign=chemical) | United States-Maryland-Baltimore |  | Oct 16 |  |
+| **Westlake** | [Chemical Engineer Intern](https://trylitos.com/job/311ffbb9-3d01-415d-a443-27abce96bbf6?utm_source=github&utm_campaign=chemical) | US - Deer Park, TX |  | Oct 15 |  |
+| **Ingredion** | [Process Engineer Intern](https://trylitos.com/job/88cef883-4f5a-4223-a84a-961c914420e4?utm_source=github&utm_campaign=chemical) | Salem, OR |  | Oct 15 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+| **Moderna** | [Co-Op, Process Engineering, CQV & Manufacturing Engineering](https://trylitos.com/job/9703fca0-de90-4f8b-9263-81931a530156?utm_source=github&utm_campaign=chemical) | Norwood, Massachusetts; Drug Manufacturing |  | Oct 15 |  |
+| **GAF** | [R&D Process Engineer Co-Op](https://trylitos.com/job/aa6698c2-df77-4553-839e-ad135853d2ed?utm_source=github&utm_campaign=chemical) | Parsippany, NJ |  | Oct 15 |  |
+| **Carrier** | [Chemical Engineering Intern - Summer](https://trylitos.com/job/d61a7d56-7415-41de-b0e8-21767a688926?utm_source=github&utm_campaign=chemical) | CAI23: Carrier-Indianapolis, 7310 West Morris |  | Oct 15 |  |
+| **Catalent** | [2027 Intern - Process Development, Downstream](https://trylitos.com/job/e40613c4-d56e-4976-9d21-5e20f7c5ff54?utm_source=github&utm_campaign=chemical) | Madison, WI |  | Oct 14 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+| **Sanofi** | [2027 Spring Co-Op Downstream Process Development and Technologies, Framingham, MA](https://trylitos.com/job/ebfce7c6-842b-4006-b54d-d4ecd59de2fb?utm_source=github&utm_campaign=chemical) | Framingham, MA |  | Oct 14 |  |
+| **Axalta** | [Chemistry / Chemical Engineering Drexel Co-Op](https://trylitos.com/job/5ab3c8cf-36d3-4ad4-b517-4ed2651c8c6c?utm_source=github&utm_campaign=chemical) | Greater Philadelphia |  | Oct 13 |  |
 | **Marathon Petroleum** | [Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Spring 2027)](https://trylitos.com/job/ef92ac82-1fd6-4187-a10a-0dd8e6d0d15b?utm_source=github&utm_campaign=chemical) | Canonsburg, Pennsylvania |  | Oct 12 |  |
 | **Marathon Petroleum** | [Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Fall 2027)](https://trylitos.com/job/8ad3d6c5-e442-43fe-aa0b-8d7648a3b357?utm_source=github&utm_campaign=chemical) | Canonsburg, Pennsylvania |  | Oct 12 |  |
 | **Marathon Petroleum** | [Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Summer 2027)](https://trylitos.com/job/1cd280f8-9dda-4b03-996a-e64e1e230d5b?utm_source=github&utm_campaign=chemical) | Canonsburg, Pennsylvania |  | Oct 12 |  |
 | **Ingredion** | [Process Engineering Co-Op (January - May 2027)](https://trylitos.com/job/fbe796fa-2854-4550-ad35-a033b73db7a2?utm_source=github&utm_campaign=chemical) | Indianapolis, IN |  | Oct 12 |  |
 | **Greif** | [2027 Spring Process Engineering Co-Op](https://trylitos.com/job/21d11ba6-9ab4-46b6-bb32-6d2661fb586b?utm_source=github&utm_campaign=chemical) | Milwaukee-WI 1514 |  | Oct 9 | Employer has approved H-1B petitions (USCIS); posting does not say |
 | **Ingredion** | [Process Engineer Co-op 2027 (May-Dec)](https://trylitos.com/job/e8bc4473-bfad-4ba6-91f2-f6d54a52a6d9?utm_source=github&utm_campaign=chemical) | North Kansas City, MO |  | Oct 8 |  |
-| **Ingredion** | [Process Engineer Co-Op (January-August 2027)](https://trylitos.com/job/6c2701fa-e962-4524-920c-7b7284091a16?utm_source=github&utm_campaign=chemical) | North Kansas City, MO |  | Oct 8 |  |
 | **Ingredion** | [Process Engineering Intern (Summer 2027) - Cedar Rapids, IA](https://trylitos.com/job/0338c062-e940-4cdf-9bef-b3a4cf5a2b37?utm_source=github&utm_campaign=chemical) | Cedar Rapids, IA |  | Oct 8 |  |
 | **Vertex Pharmaceuticals** | [Spring Co-Op 2027, Process Engineering Data Analytics](https://trylitos.com/job/c45f1b24-45e5-495c-8bc0-8d7c83fe52cf?utm_source=github&utm_campaign=chemical) | Boston, MA |  | Oct 5 |  |
 | **Catalent** | [Process Engineering Assistant (Intern)](https://trylitos.com/job/57dc2486-a8cb-4ba1-8c08-0f8b4d85a222?utm_source=github&utm_campaign=chemical) | San Diego, CA |  | Sep 30 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
