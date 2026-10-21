@@ -1,6 +1,6 @@
 # Hiring Now: free job lists, rebuilt every week
 
-**7,055 open roles across 24 lists.** Checked 20 Oct 2026.
+**7,208 open roles across 27 lists.** Checked 20 Oct 2026.
 
 Every role comes straight from the employer's own job board, picked up by [Litos](https://trylitos.com/?utm_source=github&utm_campaign=readme&utm_medium=readme). Nothing is copied from LinkedIn or Indeed. The lists are rebuilt every Monday, so closed roles drop off and new ones come in.
 
@@ -30,6 +30,9 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [44 legal, paralegal and patent roles at US visa sponsors](lists/legal.md) | 44 | 31 |
 | [139 civil and structural engineering roles open right now (US)](lists/civil-engineering.md) | 139 | 56 |
 | [123 supply chain, logistics and procurement roles open right now (US)](lists/supply-chain.md) | 123 | 92 |
+| [63 biotech and pharma roles in Poland open right now](lists/poland.md) | 63 | 24 |
+| [75 biotech and pharma roles in Spain open right now](lists/spain.md) | 75 | 27 |
+| [15 biotech, pharma and medtech roles in Canada open right now](lists/canada.md) | 15 | 11 |
 
 ## How to use these lists
 
