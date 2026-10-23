@@ -1,6 +1,6 @@
 # Hiring Now: free job lists, rebuilt every week
 
-**7,256 open roles across 28 lists.** Checked 20 Oct 2026.
+**7,358 open roles across 30 lists.** Checked 20 Oct 2026.
 
 Every role comes straight from the employer's own job board, picked up by [Litos](https://trylitos.com/?utm_source=github&utm_campaign=readme&utm_medium=readme). Nothing is copied from LinkedIn or Indeed. The lists are rebuilt every Monday, so closed roles drop off and new ones come in.
 
@@ -34,6 +34,8 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [75 biotech and pharma roles in Spain open right now](lists/spain.md) | 75 | 27 |
 | [15 biotech, pharma and medtech roles in Canada open right now](lists/canada.md) | 15 | 11 |
 | [48 process development and clinical internships and co-ops open right now](lists/process-development-clinical-internships-coops.md) | 48 | 16 |
+| [72 FP&A and corporate finance internships open right now (US)](lists/fpa-corporate-finance-internships.md) | 72 | 66 |
+| [30 credit analyst, fund accounting and investment banking roles open right now (US)](lists/credit-fund-accounting-investment-banking.md) | 30 | 26 |
 
 ## How to use these lists
 
