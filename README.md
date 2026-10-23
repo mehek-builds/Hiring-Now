@@ -1,6 +1,6 @@
 # Hiring Now: free job lists, rebuilt every week
 
-**7,358 open roles across 30 lists.** Checked 20 Oct 2026.
+**7,384 open roles across 32 lists.** Checked 20 Oct 2026.
 
 Every role comes straight from the employer's own job board, picked up by [Litos](https://trylitos.com/?utm_source=github&utm_campaign=readme&utm_medium=readme). Nothing is copied from LinkedIn or Indeed. The lists are rebuilt every Monday, so closed roles drop off and new ones come in.
 
@@ -36,6 +36,8 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [48 process development and clinical internships and co-ops open right now](lists/process-development-clinical-internships-coops.md) | 48 | 16 |
 | [72 FP&A and corporate finance internships open right now (US)](lists/fpa-corporate-finance-internships.md) | 72 | 66 |
 | [30 credit analyst, fund accounting and investment banking roles open right now (US)](lists/credit-fund-accounting-investment-banking.md) | 30 | 26 |
+| [11 policy, government affairs and public sector roles open right now (US)](lists/policy-government-affairs.md) | 11 | 11 |
+| [15 P&C actuarial and catastrophe modeling roles open right now (US)](lists/pc-actuarial.md) | 15 | 12 |
 
 ## How to use these lists
 
