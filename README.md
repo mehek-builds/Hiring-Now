@@ -41,6 +41,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [9 actuarial internships open right now (US and UK)](lists/actuarial-internships.md) | 9 | 9 |
 | [21 biomedical and medtech engineering internships and co-ops open right now (US)](lists/biomedical-medtech-engineering-internships.md) | 21 | 9 |
 | [36 materials science and device fabrication roles open right now (US)](lists/materials-science-device-fabrication.md) | 36 | 24 |
+| [35 NLP, LLM and computational social science roles open right now](lists/nlp-llm-computational-social-science.md) | 35 | 28 |
 
 ## How to use these lists
 
