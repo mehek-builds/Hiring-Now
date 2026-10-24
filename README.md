@@ -38,6 +38,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [30 credit analyst, fund accounting and investment banking roles open right now (US)](lists/credit-fund-accounting-investment-banking.md) | 30 | 26 |
 | [11 policy, government affairs and public sector roles open right now (US)](lists/policy-government-affairs.md) | 11 | 11 |
 | [15 P&C actuarial and catastrophe modeling roles open right now (US)](lists/pc-actuarial.md) | 15 | 12 |
+| [9 actuarial internships open right now (US and UK)](lists/actuarial-internships.md) | 9 | 9 |
 
 ## How to use these lists
 
