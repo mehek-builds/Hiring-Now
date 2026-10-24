@@ -42,6 +42,8 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [21 biomedical and medtech engineering internships and co-ops open right now (US)](lists/biomedical-medtech-engineering-internships.md) | 21 | 9 |
 | [36 materials science and device fabrication roles open right now (US)](lists/materials-science-device-fabrication.md) | 36 | 24 |
 | [35 NLP, LLM and computational social science roles open right now](lists/nlp-llm-computational-social-science.md) | 35 | 28 |
+| [10 3D printing and computer graphics roles open right now](lists/3d-printing-computer-graphics.md) | 10 | 10 |
+| [110 internships for math majors open right now (US)](lists/math-internships.md) | 110 | 78 |
 
 ## How to use these lists
 
