@@ -47,6 +47,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [8 mass spectrometry, LC-MS and bioanalytical roles open right now](lists/mass-spectrometry-bioanalytical.md) | 8 | 8 |
 | [18 UX research, people analytics and consumer insights roles open right now](lists/ux-research-people-analytics-insights.md) | 18 | 15 |
 | [16 think tank, foundation, nonprofit and AI ethics roles open right now](lists/think-tank-foundation-nonprofit-ethics.md) | 16 | 13 |
+| [32 environmental science, EHS and sustainability roles open right now](lists/environmental-science-sustainability.md) | 32 | 24 |
 
 ## How to use these lists
 
