@@ -1,13 +1,13 @@
 # Hiring Now: free job lists, rebuilt every week
 
-**7,384 open roles across 32 lists.** Checked 20 Oct 2026.
+**7,379 open roles across 32 lists.** Checked 20 Oct 2026.
 
 Every role comes straight from the employer's own job board, picked up by [Litos](https://trylitos.com/?utm_source=github&utm_campaign=readme&utm_medium=readme). Nothing is copied from LinkedIn or Indeed. The lists are rebuilt every Monday, so closed roles drop off and new ones come in.
 
 | List | Roles | Companies |
 | --- | --- | --- |
 | [1,699 US companies hiring this week](lists/hiring-this-week.md) | 1,699 | 1,656 |
-| [404 new grad and entry level roles hiring now](lists/new-grad.md) | 404 | 215 |
+| [403 new grad and entry level roles hiring now](lists/new-grad.md) | 403 | 215 |
 | [US employers that sponsor visas: new grad roles and internships open now](lists/visa-sponsorship.md) | 659 | 253 |
 | [421 internships open right now (US)](lists/internships.md) | 421 | 244 |
 | [484 software and data internships open right now (US)](lists/software-data-internships.md) | 484 | 267 |
@@ -15,7 +15,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [298 finance internships open right now (US)](lists/finance-internships.md) | 298 | 209 |
 | [201 science and research internships open right now (US)](lists/science-research-internships.md) | 201 | 110 |
 | [395 clinical research and lab roles open right now (US)](lists/clinical-research.md) | 395 | 191 |
-| [539 open roles at 55 YC startups](lists/yc-startups.md) | 539 | 55 |
+| [538 open roles at 55 YC startups](lists/yc-startups.md) | 538 | 55 |
 | [577 fresher friendly roles hiring in India right now](lists/india.md) | 689 | 373 |
 | [43 chemical and process engineering internships open right now (US)](lists/chemical-engineering-internships.md) | 43 | 30 |
 | [69 semiconductor new grad roles and internships at US visa sponsors](lists/semiconductor.md) | 69 | 9 |
@@ -36,13 +36,13 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [48 process development and clinical internships and co-ops open right now](lists/process-development-clinical-internships-coops.md) | 48 | 16 |
 | [72 FP&A and corporate finance internships open right now (US)](lists/fpa-corporate-finance-internships.md) | 72 | 66 |
 | [30 credit analyst, fund accounting and investment banking roles open right now (US)](lists/credit-fund-accounting-investment-banking.md) | 30 | 26 |
-| [11 policy, government affairs and public sector roles open right now (US)](lists/policy-government-affairs.md) | 11 | 11 |
+| [10 policy, government affairs and public sector roles open right now (US)](lists/policy-government-affairs.md) | 10 | 10 |
 | [15 P&C actuarial and catastrophe modeling roles open right now (US)](lists/pc-actuarial.md) | 15 | 12 |
 | [9 actuarial internships open right now (US and UK)](lists/actuarial-internships.md) | 9 | 9 |
 | [21 biomedical and medtech engineering internships and co-ops open right now (US)](lists/biomedical-medtech-engineering-internships.md) | 21 | 9 |
 | [36 materials science and device fabrication roles open right now (US)](lists/materials-science-device-fabrication.md) | 36 | 24 |
 | [35 NLP, LLM and computational social science roles open right now](lists/nlp-llm-computational-social-science.md) | 35 | 28 |
-| [10 3D printing and computer graphics roles open right now](lists/3d-printing-computer-graphics.md) | 10 | 10 |
+| [8 3D printing and computer graphics roles open right now](lists/3d-printing-computer-graphics.md) | 8 | 8 |
 | [110 internships for math majors open right now (US)](lists/math-internships.md) | 110 | 78 |
 | [8 mass spectrometry, LC-MS and bioanalytical roles open right now](lists/mass-spectrometry-bioanalytical.md) | 8 | 8 |
 | [18 UX research, people analytics and consumer insights roles open right now](lists/ux-research-people-analytics-insights.md) | 18 | 15 |

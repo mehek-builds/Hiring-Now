@@ -1,6 +1,6 @@
-# 539 open roles at 55 YC startups
+# 538 open roles at 55 YC startups
 
-**539 roles at 55 companies.** Checked 20 Oct 2026. Y Combinator companies with live postings on their own job boards, up to 15 roles each.
+**538 roles at 55 companies.** Checked 20 Oct 2026. Y Combinator companies with live postings on their own job boards, up to 15 roles each.
 
 _Company list from Y Combinator's public directory; roles from each company's own job board. Covers the YC companies whose job boards Litos tracks, not every YC company. Pulled from companies' own job boards and rebuilt every Monday._
 
@@ -392,7 +392,6 @@ _Company list from Y Combinator's public directory; roles from each company's ow
 | **Prolific** | [Strategic Account Executive](https://trylitos.com/job/105263c0-8fb9-44b2-ab6d-ae2d190e147c?utm_source=github&utm_campaign=yc) | (Remote) San Francisco |  | Aug 27 | Summer 2019 | Making diverse, high-quality data easily available to anyone, anywhere |
 | **Enveritas** | [Ops Coordinator, Asia](https://trylitos.com/job/fdb8f80f-14a5-4f05-9bbc-4c47c87cfbfb?utm_source=github&utm_campaign=yc) | Global - Remote Work |  | Oct 7 | Summer 2018 | We verify global supply chains for issues like child slavery and… |
 | **Enveritas** | [Senior Ops Manager - Asia](https://trylitos.com/job/d093f477-25e1-43bd-90f9-d18d6318dc4b?utm_source=github&utm_campaign=yc) | Global - Remote Work |  | Oct 7 | Summer 2018 | We verify global supply chains for issues like child slavery and… |
-| **Enveritas** | [Fellowship - Impact](https://trylitos.com/job/828a46a6-ff3c-4ee0-8ed2-3f8d2986b4e2?utm_source=github&utm_campaign=yc) | Global - Remote Work |  | Oct 7 | Summer 2018 | We verify global supply chains for issues like child slavery and… |
 | **Enveritas** | [Senior Impact Analyst](https://trylitos.com/job/6f090798-4d37-4f5e-a5cc-38d2648b123b?utm_source=github&utm_campaign=yc) | Global - Remote Work |  | Oct 7 | Summer 2018 | We verify global supply chains for issues like child slavery and… |
 | **Enveritas** | [Backend Software Engineer - Python/Postgres [Remote / Global]](https://trylitos.com/job/352b7a1d-e995-460a-9603-83f14fc0a2e2?utm_source=github&utm_campaign=yc) | Global - Remote Work |  | Oct 7 | Summer 2018 | We verify global supply chains for issues like child slavery and… |
 | **Papa** | [Physician Partner](https://trylitos.com/job/88e43c77-ab51-4663-b0f2-2a1b30df3e45?utm_source=github&utm_campaign=yc) | Remote |  | Sep 4 | Summer 2018 | One-stop-shop for flexible family care |

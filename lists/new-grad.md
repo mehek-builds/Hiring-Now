@@ -1,6 +1,6 @@
-# 404 new grad and entry level roles hiring now
+# 403 new grad and entry level roles hiring now
 
-**404 roles at 215 companies.** Checked 20 Oct 2026. US roles whose title says new grad, graduate, entry level, early career or junior. No senior titles.
+**403 roles at 215 companies.** Checked 20 Oct 2026. US roles whose title says new grad, graduate, entry level, early career or junior. No senior titles.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
@@ -212,7 +212,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **The J.M. Smucker Co.** | [Production General Labor- Entry Level](https://trylitos.com/job/bc0a5038-a49e-4777-a721-b09e1f1ba77c?utm_source=github&utm_campaign=newgrad) | Topeka, KS |  | Oct 9 |  |
 | **Ocean Spray** | [Entry Level Production Resources (Days and Nights available))](https://trylitos.com/job/6db36d1b-0f6e-4223-a27c-9eb90417966d?utm_source=github&utm_campaign=newgrad) | Wisconsin Rapids, WI |  | Oct 9 |  |
 | **Ocean Spray** | [Production Resource Entry Level Nights (4pm to 4am)](https://trylitos.com/job/0cd8a5af-4b1b-4baf-aae4-ccc40c890b05?utm_source=github&utm_campaign=newgrad) | Tomah, WI |  | Oct 9 |  |
-| **ICF** | [Public Policy Researcher (Entry-Level; Reston, VA)](https://trylitos.com/job/6b5ed708-d3a3-44c3-abd8-2060147f74bf?utm_source=github&utm_campaign=newgrad) | Reston, VA |  | Oct 9 |  |
 | **Booz Allen Hamilton** | [Modeling and Simulation Engineer, Junior](https://trylitos.com/job/beedf033-0db3-4c91-9a86-71cff8c2adf2?utm_source=github&utm_campaign=newgrad) | McLean, VA |  | Oct 9 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **AutoNation** | [Junior Estimator - AutoNation Collision Center Marietta](https://trylitos.com/job/a8828599-9f7f-4793-8f6a-7babfe273392?utm_source=github&utm_campaign=newgrad) | AutoNation Collision Center Marietta |  | Oct 9 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Booz Allen Hamilton** | [Digital Transformation Specialist, Junior](https://trylitos.com/job/733d4289-3588-46f5-96a4-280f8ed97f2e?utm_source=github&utm_campaign=newgrad) | Arlington, VA; Clearfield, UT |  | Oct 9 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
