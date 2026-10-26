@@ -29,6 +29,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [124 nursing roles at US visa sponsors](lists/nursing.md) | 124 | 23 |
 | [44 legal, paralegal and patent roles at US visa sponsors](lists/legal.md) | 44 | 31 |
 | [139 civil and structural engineering roles open right now (US)](lists/civil-engineering.md) | 139 | 56 |
+| [279 aerospace and space engineering jobs open right now (US)](lists/aerospace-space-engineering.md) | 279 | 57 |
 | [123 supply chain, logistics and procurement roles open right now (US)](lists/supply-chain.md) | 123 | 92 |
 | [63 biotech and pharma roles in Poland open right now](lists/poland.md) | 63 | 24 |
 | [75 biotech and pharma roles in Spain open right now](lists/spain.md) | 75 | 27 |
